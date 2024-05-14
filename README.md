@@ -1,10 +1,10 @@
-# Web Starter
+# Typography Only for Tarot
 
-> Computers are dumb. Humans make them smart.
+> The history of tarot goes back to the late 14th century, where it began as a card game.
 
-Starter (boilerplate) for all future projects.
+A Web1 Project to experiment with ONLY CSS Typography.
 
-## Why Does This Exist?
-* Don't start with nothing
-* Common boilerplate for web projects
-* I am a human being who makes mistakes
+## CSS Concepts
+- Typography
+- Box Model
+- CSS Variables
